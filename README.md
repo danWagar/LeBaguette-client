@@ -1,47 +1,58 @@
- # Le Baguette : Learn French with Space Repetition.
+# Le Baguette : Learn French with Space Repetition.
 
- # About
- Before taking a trip to France, learn essential words quickly and effectivley! This application uses space repetition flashcards that keep track of user scores. It also displays the user scores for every word they are learning, letting them know how many times they got it right and how many times they got it wrong. It allows users to create personailzed accounts that diplay their name on the top of the dashboard and lets them keep track of their progress by logging into their personal accounts.
+# About
 
-## Account login for demo: 
+Before taking a trip to France, learn essential words quickly and effectivley! This application uses space repetition flashcards that keep track of user scores. It also displays the user scores for every word they are learning, letting them know how many times they got it right and how many times they got it wrong. It allows users to create personailzed accounts that diplay their name on the top of the dashboard and lets them keep track of their progress by logging into their personal accounts.
+
+## Account login for demo:
+
 ### username : admin
+
 ### password: pass
 
 ## Live page can be found here !
+
 ### ZEIT:
+
 [click here for live page](https://spaced-repetition-app.mal3905.now.sh/learn)
 
-
 ## Technoligies Used
+
 Client side: React, Javascript, HTML and CSS
 Server side: Express.js, Node.js, PostgreSQL
 
-## Links to code 
+## Links to code
+
 Client : [Client](https://github.com/thinkful-ei-heron/Dan_Maria_Spaced-Repetition.git)
 Server: [Server](https://github.com/thinkful-ei-heron/Dan_Maria_Spaced-Repitition-API.git)
 
 ## Screen Shots
-### Registration page 
+
+### Registration page
+
 ![Registration page](./readme-images/main.png)
+
 ### Login Page
+
 ![Login page](./readme-images/login.png)
+
 ### Dashboard
+
 ![](./readme-images/dashboard.png)
+
 ### Learning Page
+
 ![](./readme-images/learn.png)
+
 ### Learning Feedback Page
+
 ![](./readme-images/feedback.png)
+
 ### Confetti Page
+
 ![](./readme-images/confetti.png)
 
-
-created by : Daniel Wagner and Maria Danielson 2019
-
-
-
-
-
-
+created by : Daniel Wagar and Maria Danielson 2019
 
 # Spaced Repetition Capstone Setup
 
@@ -50,7 +61,7 @@ created by : Daniel Wagner and Maria Danielson 2019
 To setup the application
 
 1. Fork and clone the project to your machine
-2. `npm install`. This will also install the application *Cypress.io* for running browser integration tests
+2. `npm install`. This will also install the application _Cypress.io_ for running browser integration tests
 
 The project expects you have the Spaced repetition API project setup and running on http://localhost:8000.
 
